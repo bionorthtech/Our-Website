@@ -3,6 +3,8 @@
 Marketing site for [BioNorth Tech](https://github.com/bionorthtech) — a team of high-school
 students building deep tech.
 
+**Live site:** [bionorthtech.github.io/BioNorth-Main](https://bionorthtech.github.io/BioNorth-Main/)
+
 - **The mission** — a closed-loop brain-computer interface that detects freezing of gait in
   Parkinson's disease and restores movement with precision neuromuscular stimulation.
 - **Side projects** — including [AiMetr](https://github.com/bionorthtech/AiMetr), a
@@ -35,8 +37,11 @@ src/
 
 ## Deployment
 
-Pushes to `main` trigger `.github/workflows/deploy.yml`, which builds the site and publishes
-it to GitHub Pages at `https://bionorthtech.github.io/BioNorth-Main/`.
+Pushes to `main` on [BioNorth-Main](https://github.com/bionorthtech/BioNorth-Main) trigger
+`.github/workflows/deploy.yml`, which builds the site and publishes it to GitHub Pages at
+`https://bionorthtech.github.io/BioNorth-Main/`.
+
+This repo mirrors the site source; deploy from **BioNorth-Main** only.
 
 **One-time setup:** in repo **Settings → Pages**, set **Source = "GitHub Actions"**.
 
