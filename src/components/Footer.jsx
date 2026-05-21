@@ -12,7 +12,7 @@ export default function Footer() {
             <span className="display" style={{ fontWeight: 700, fontSize: "16px", color: "var(--heading)", letterSpacing: "-0.01em" }}>BioNorth</span>
           </div>
           <div className="sans" style={{ fontSize: "11px", color: "var(--faint)", lineHeight: 1.6, maxWidth: "380px" }}>
-            Built by high-school students at Lake Mary High School, Florida. Started as a capstone project at Markham Woods Elementary.<br />
+            Built by high-school students by bionorth team.<br />
             {FOOTER_LEGAL.disclaimer}
           </div>
           <div style={{ display: "flex", gap: "16px", marginTop: "16px" }}>
