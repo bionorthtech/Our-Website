@@ -6,7 +6,7 @@ students building deep tech.
 **Live site:** [bionorthtech.github.io/BioNorth-Main](https://bionorthtech.github.io/BioNorth-Main/)
 
 - **The mission** — a closed-loop brain-computer interface that detects freezing of gait in
-  Parkinson's disease and restores movement with precision neuromuscular stimulation.
+  Parkinson's disease and restores movement with precision neuromuscular stimulation we devleloped.
 - **Side projects** — including [AiMetr](https://github.com/bionorthtech/AiMetr), a
   multi-provider AI usage monitor with a desktop pet and ESP32-S3 hardware companion.
 
